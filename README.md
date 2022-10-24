@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/project-1-red)
 
 
-## Project-1  [live Link](https://streetstyledesign.netlify.app/)
+## Project-1  [live Link](https://projec1.netlify.app/)
 
 **Name:**  KRISHNA KUMAR
 
